@@ -30,6 +30,6 @@ criaCartao(
 
 criaCartao(
     'Ponto de Vista', 
-    'O que eu achei da viagem para ...?', 
+    'O que eu achei da viagem para Pernambuco?', 
     'A viagem foi bem bacana. Com minhas amigas, conseguimos aproveitar o tempo de forma leve, sem grandes expectativas, mas de um jeito muito agradável. Passeamos sem pressa, aproveitamos a companhia e também tivemos tempo para relaxar. Foi uma experiência simples, mas que ficou marcada pela boa companhia e pelos momentos.'
 )
