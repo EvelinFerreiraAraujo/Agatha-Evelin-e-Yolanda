@@ -1,7 +1,7 @@
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
-    'Pernambuco', 
+    'Pernambuco - Recife', 
 )
 
 criaCartao(
@@ -19,17 +19,18 @@ criaCartao(
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Informar os locais, breve resumo do que são.'
+    'Tem diversos lugares que podem ser visitados, alguns locais pagos como Jardim Botânico do Recife, Paço  do Frevo, RioMar Shopping e outros que não precisa gastar nenhum valor como Praia do Pina, Museu da abolição, Casa da Cultura de Pernambuco.'
 )
 
 criaCartao(
     'Prato Típico', 
     'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
+    'O bolo Souza Leão, criado no século XIX pelas famílias de engenhos de Pernambuco, é símbolo da cultura açucareira. Feito com mandioca, açúcar, ovos e leite de coco, tem textura única e era servido em ocasiões especiais. Hoje, é Patrimônio Imaterial de Pernambuco, representando a tradição e identidade nordestina.'
 )
 
 criaCartao(
+)
+
     'Ponto de Vista', 
     'O que eu achei da viagem para ...?', 
-    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
-)
+    'A viagem foi bem bacana. Com minhas amigas, conseguimos aproveitar o tempo de forma leve, sem grandes expectativas, mas de um jeito muito agradável. Passeamos sem pressa, aproveitamos a companhia e também tivemos tempo para relaxar. Foi uma experiência simples, mas que ficou marcada pela boa companhia e pelos momentos.'
