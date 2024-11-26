@@ -24,8 +24,8 @@ criaCartao(
 
 criaCartao(
     'Prato Típico', 
-    'Conhece o "nome do prato"?', 
-    'O bolo Souza Leão, criado no século XIX pelas famílias de engenhos de Pernambuco, é símbolo da cultura açucareira. Feito com mandioca, açúcar, ovos e leite de coco, tem textura única e era servido em ocasiões especiais. Hoje, é Patrimônio Imaterial de Pernambuco, representando a tradição e identidade nordestina.'
+    'Conhece o bolo Souza Leão?', 
+    'O bolo Souza Leão, foi criado no século XIX pelas famílias de engenhos de Pernambuco, é símbolo da cultura açucareira. Feito com mandioca, açúcar, ovos e leite de coco, tem textura única e era servido em ocasiões especiais. Hoje, é Patrimônio Imaterial de Pernambuco, representando a tradição e identidade nordestina.'
 )
 
 criaCartao(
