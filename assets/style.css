@@ -1,15 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
+
 :root {
-    --text-color: #2E2D28 
-    --card-front-color: #b5b298;
-    --card-back-color: #C4C4C4; 
+    --text-color: #DBE4EF;
+    --card-front-color: #48427a;
+    --card-back-color: #bf94f1;
 }
 
 body{
-    background: url('img/bg-desktop-neutral.webp');
-    font-family: 'Bai Jamjuree', sans-serif;
-    background-size: cover;
-    color: var(--text-color);
+    background: url('img/bg-desktop-violet.webp');
+    font-family: Bai Jamjuree;
 }
 
 #container{
@@ -20,7 +19,7 @@ body{
 }
 
 .cartao{
-    margin: 1rem;
+    margin: 1rem 1rem;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
@@ -29,11 +28,10 @@ body{
 .cartao__conteudo{
     background-color: var(--card-front-color);
     text-align: center;
+    /*background-color: aquamarine;*/
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
-    border-radius: 0.5rem;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .cartao__conteudo h3{
@@ -44,7 +42,7 @@ body{
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
-    font-size: 1rem;
+    font-size: 1vw;
     backface-visibility: hidden;
 }
 
@@ -52,7 +50,6 @@ body{
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
-    font-size: 1rem; 
 }
 
 .cartao__conteudo__pergunta p{
@@ -85,22 +82,19 @@ body{
     width: 50%;
     height: 50%;
     margin-top: 1px;
-    border-radius: 50%;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 footer{
-    background-color: #333333;
+    background-color: black;
     color: white;
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 2rem;
-    border-radius: 1rem 1rem 0 0;
 }
 
 footer p{
     text-align: center;
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     margin-top: 0.5rem;
 }
