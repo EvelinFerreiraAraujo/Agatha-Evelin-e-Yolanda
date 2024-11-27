@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'Custo da Viagem', 
     'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
-    'Na viagem independente sai no valor de R$ 17.517 e a viagem através de pacotes fica em torno de R$ 10.071.Então, acaba sendo mais em conta ir através do uso de pacotes fornecidos por sites de viagens nesse caso.'
+    'Na viagem independente sai no valor de R$ 17.517 e a viagem através de pacotes fica em torno de R$ 10.071. Então, acaba sendo mais em conta ir através do uso de pacotes fornecidos por sites de viagens nesse caso.'
 )
 
 criaCartao(
