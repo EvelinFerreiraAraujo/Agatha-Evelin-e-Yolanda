@@ -31,5 +31,5 @@ criaCartao(
 criaCartao(
     'Ponto de Vista', 
     'O que eu achei da viagem para Pernambuco?', 
-    'A viagem foi bem bacana. Com minhas amigas, conseguimos aproveitar o tempo de forma leve, sem grandes expectativas, mas de um jeito muito agradável. Passeamos sem pressa, aproveitamos a companhia e também tivemos tempo para relaxar. Foi uma experiência simples, mas que ficou marcada pela boa companhia e pelos momentos.'
+    'A viagem foi ótima, aproveitamos muito o tempo juntas de forma tranquila, sem grandes expectativas. Passeamos sem pressa e também tivemos bons momentos de descanso. Contudo, pensando melhor, na próxima vez, planejamos aproveitar mais as atrações do destino e equilibrar mais os passeios com o tempo livre. Também gostaríamos de nos conectar mais com a cultura local, seja pela comida ou conversando com os moradores. Foi uma experiência simples, mas muito boa, e com certeza, vamos aplicar esses aprendizados na próxima viagem.'
 )
